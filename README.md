@@ -7,12 +7,15 @@ It includes features like menu display, booking system, user authentication, and
 
 ## 🚀 Features
 - 🏠 **Homepage** with restaurant images (slideshow).
-- ![Homepage Screenshot](assets/homepage.png)
+  ![Homepage Screenshot](assets/homepage.png)
 - 📖 **About Page** describing Little Lemon.
 - 🍽 **Menu Page** with dish images, prices, and details.
-- ![Menu Screenshot](assets/menu.png)
+  ![Menu Screenshot](assets/menu.png)
 - 📌 **Bookings Section** to make and view reservations.
-- 🔑 **User Authentication** (Login / Logout).
+  ![booking Screenshot](assets/booking.png)
+- 🔑 **User Authentication** (Login / signup).
+  ![login Screenshot](assets/login.png)
+  ![signup Screenshot](assets/signup.png)
 - 🎨 Responsive design using **Bootstrap 5**.
 - 🗄 Uses **SQLite** by default (can be switched to PostgreSQL/MySQL).
 
