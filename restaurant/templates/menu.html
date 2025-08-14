@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Our Menu</h1>
+
+<div class="menu-grid">
+    {% for m in menu %}
+        <div class="menu-item">
+            {% if m.image %}
+                <img src="{{ m.image.url }}" alt="{{ m.name }}">
+            {% endif %}
+            <h2>{{ m.name }}</h2>
+            <p class="price">₹{{ m.price }}</p>
+            {% if m.description %}
+                <p class="desc">{{ m.description }}</p>
+            {% endif %}
+            <a class="view-btn" href="{% url 'menu_item' m.pk %}">View Details</a>
+        </div>
+    {% endfor %}
+</div>
+{% endblock %}

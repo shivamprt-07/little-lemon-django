@@ -1,0 +1,102 @@
+[
+    {
+        "model": "restaurant.menu",
+        "pk": 1,
+        "fields": {
+            "name": "Margherita Pizza",
+            "description": "Classic Italian pizza with fresh mozzarella, tomato sauce, and basil.",
+            "price": "299.00",
+            "image": "menu/margherita.jpg"
+        }
+    },
+    {
+        "model": "restaurant.menu",
+        "pk": 2,
+        "fields": {
+            "name": "Pasta Alfredo",
+            "description": "Creamy Alfredo pasta with parmesan and garlic.",
+            "price": "349.00",
+            "image": "menu/alfredo.jpg"
+        }
+    },
+    {
+        "model": "restaurant.menu",
+        "pk": 3,
+        "fields": {
+            "name": "Grilled Chicken",
+            "description": "Tender grilled chicken breast served with herbs.",
+            "price": "399.00",
+            "image": "menu/grilled_chicken.jpg"
+        }
+    },
+    {
+        "model": "restaurant.menu",
+        "pk": 4,
+        "fields": {
+            "name": "Caesar Salad",
+            "description": "Fresh lettuce, croutons, parmesan cheese, and Caesar dressing.",
+            "price": "249.00",
+            "image": "menu/caesar_salad.jpg"
+        }
+    },
+    {
+        "model": "restaurant.menu",
+        "pk": 5,
+        "fields": {
+            "name": "Veg Burger",
+            "description": "Juicy vegetable patty with lettuce, tomato, and cheese.",
+            "price": "199.00",
+            "image": "menu/veg_burger.jpg"
+        }
+    },
+    {
+        "model": "restaurant.menu",
+        "pk": 6,
+        "fields": {
+            "name": "Paneer Tikka",
+            "description": "Spicy and flavorful paneer cubes roasted to perfection.",
+            "price": "279.00",
+            "image": "menu/paneer_tikka.jpg"
+        }
+    },
+    {
+        "model": "restaurant.menu",
+        "pk": 7,
+        "fields": {
+            "name": "Chocolate Cake",
+            "description": "Rich and moist chocolate cake with creamy frosting.",
+            "price": "149.00",
+            "image": "menu/chocolate_cake.jpg"
+        }
+    },
+    {
+        "model": "restaurant.menu",
+        "pk": 8,
+        "fields": {
+            "name": "Sushi Platter",
+            "description": "Assorted fresh sushi rolls served with wasabi and soy sauce.",
+            "price": "599.00",
+            "image": "menu/sushi_platter.jpg"
+        }
+    },
+    {
+        "model": "restaurant.menu",
+        "pk": 9,
+        "fields": {
+            "name": "Tandoori Roti",
+            "description": "Freshly baked Indian bread in a clay oven.",
+            "price": "30.00",
+            "image": "menu/tandoori_roti.jpg"
+        }
+    },
+    {
+        "model": "restaurant.menu",
+        "pk": 10,
+        "fields": {
+            "name": "Butter Chicken",
+            "description": "Creamy and buttery chicken curry with rich spices.",
+            "price": "399.00",
+            "image": "menu/butter_chicken.jpg"
+        }
+    }
+]
