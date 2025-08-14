@@ -7,6 +7,9 @@ It includes features like menu display, booking system, user authentication, and
 
 ## 🚀 Features
 - 🏠 **Homepage** with restaurant images (slideshow).
+- ![Homepage Screenshot](assets/homepage.png)
+
+
 - 📖 **About Page** describing Little Lemon.
 - 🍽 **Menu Page** with dish images, prices, and details.
 - 📌 **Bookings Section** to make and view reservations.
